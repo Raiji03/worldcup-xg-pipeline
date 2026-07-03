@@ -1,0 +1,4 @@
+statsbombpy
+pandas
+pyarrow
+duckdb
